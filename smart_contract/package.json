@@ -1,0 +1,26 @@
+{
+  "name": "smart_contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "dotenv": "^17.2.3",
+    "hardhat": "^2.26.2"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "ethers": "^6.15.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "viem": "^2.38.3",
+    "vite": "^7.1.11",
+    "wagmi": "^2.18.1"
+  }
+}
