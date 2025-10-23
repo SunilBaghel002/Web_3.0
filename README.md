@@ -39,7 +39,7 @@ Run all commands in your terminal.
 
 3. Set up Hardhat (select **JavaScript project** when prompted):
    ```bash
-   npx hardhat init
+   npx hardhat --init
    ```
    - Accept defaults for other prompts.
    - This creates `contracts/`, `scripts/`, `test/`, and `hardhat.config.js`.
